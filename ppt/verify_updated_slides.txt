@@ -1,0 +1,249 @@
+
+==================== SLIDE 1 ====================
+Layout: Title Slide
+--- Shape: 'Google Shape;87;p1' (TEXT_BOX (17)) ---
+    Left=1.00", Top=1.20", Width=11.33", Height=0.50"
+    Text (1 paragraphs):
+      • Department of Computer Engineering
+--- Shape: 'Google Shape;88;p1' (TEXT_BOX (17)) ---
+    Left=0.80", Top=4.30", Width=4.50", Height=2.50"
+    Text (4 paragraphs):
+      • Project Guide:
+      • Prof. / Dr. [Faculty Guide Name]
+      • Department of Computer Engineering
+      • MIT Academy of Engineering, Pune
+--- Shape: '标题' (PLACEHOLDER (14)) ---
+    Left=1.00", Top=1.75", Width=11.33", Height=0.45"
+    Text (1 paragraphs):
+      • Academic Year 2026-27 (Semester-III)
+--- Shape: '副标题' (PLACEHOLDER (14)) ---
+    Left=1.00", Top=0.40", Width=11.33", Height=0.80"
+    Text (1 paragraphs):
+      • SY-Project Design Presentation (Review II)
+--- Shape: 'Title 54' (AUTO_SHAPE (1)) ---
+    Left=1.00", Top=2.40", Width=11.33", Height=1.50"
+    Text (2 paragraphs):
+      • AI-Powered Mobile Urban Intelligence PlatformUsing Public Transport Fleet
+      • Problem Statement: SIH 26124 | Organization: Bharat Electronics Limited (BEL)
+--- Shape: 'Text Box 61' (TEXT_BOX (17)) ---
+    Left=5.60", Top=4.30", Width=7.00", Height=2.70"
+    Text (5 paragraphs):
+      • Team Details:
+      • • Pranav Mhasaye (CS) — PRN: 202501040309 | Ph: 7721886564
+   Email: 202501040309@mitaoe.ac.in
+      • • Abhishree Nalgintwar (CS) — PRN: 202501040306 | Ph: 8767369374
+   Email: 202501040306@mitaoe.ac.in
+      • • Jayesh Nehete (CS) — PRN: 202501040322 | Ph: 9340071421
+   Email: 202501040322@mitaoe.ac.in
+      • • Loni Yash Shrishail (E&TC) — PRN: 202501070063 | Ph: 7666850976
+   Email: 202501070063@mitaoe.ac.in
+
+==================== SLIDE 2 ====================
+Layout: Title and Content
+--- Shape: 'Title 25' (PLACEHOLDER (14)) ---
+    Left=0.80", Top=0.40", Width=11.73", Height=0.80"
+    Text (1 paragraphs):
+      • Presentation Index
+--- Shape: 'Google Shape;95;p2' (TEXT_BOX (17)) ---
+    Left=1.00", Top=1.40", Width=11.33", Height=5.20"
+    Text (9 paragraphs):
+      • 1.  Introduction & Project Background  —  Public transport bus sensing reality & Vehicle-as-a-Sensor edge paradigm
+      • 2.  Problem Statement & Urban Challenges  —  SIH 26124 (BEL), delayed road repairs, static CCTV blind spots & bandwidth bottleneck
+      • 3.  Objectives & Scope of Work  —  Edge AI defect detection, ByteTrack tracking, RAM circular buffer & phase division
+      • 4.  Applications & Real-World Impact  —  Municipal PWD road registry, traffic mobility heatmaps & forensic police dossiers
+      • 5.  Literature Review & Research Gaps  —  23 peer-reviewed papers analyzed (2024–2026) & unified edge-cloud system gap
+      • 6.  System Architecture & Block Diagram  —  End-to-end edge inference, MQTT cellular uplink, PostGIS & Leaflet GIS dashboard
+      • 7.  Implementation Methodology & Core Algorithms  —  YOLO11n ONNX INT8, ByteTrack Kalman association, RAM FIFO & Haversine clustering
+      • 8.  Expected Outcomes & Review II Progress  —  Review II achieved milestones (~45% progress) & final technical performance targets
+      • 9.  Selected Academic References  —  IEEE-formatted peer-reviewed references from Nature, IEEE, Elsevier & MDPI
+
+==================== SLIDE 3 ====================
+Layout: Title and Content
+--- Shape: 'Google Shape;102;p3' (TEXT_BOX (17)) ---
+    Left=0.80", Top=1.40", Width=6.80", Height=5.20"
+    Text (8 paragraphs):
+      • • Problem Statement Context: SIH 26124 (Bharat Electronics Limited - BEL)
+      • • Urban Ground Reality: Routine public transit buses traverse 80%–90% of urban arterial road networks every 15–30 minutes, providing unprecedented temporal and spatial coverage.
+      • • Fixed CCTV Limitations: Stationary surveillance cameras cover <3% of road grids, suffer from static blind spots, and cost crores to deploy and maintain.
+      • • 'Vehicle-as-a-Sensor' Paradigm: Turning public transit buses into mobile edge-AI computing nodes converts everyday municipal transit into a live urban sensing grid at zero additional vehicular transit cost.
+      • • Multi-Task Sensing Capabilities: Our system simultaneously executes three critical urban functions at the edge:
+      •    1. Road Hazard Detection: Real-time identification of potholes, cracks, and surface wear.
+      •    2. Dynamic Traffic Monitoring: Continuous estimation of congestion density & transit speeds.
+      •    3. Incident Forensics & ANPR: Rolling RAM buffer preserving critical event clips with plate OCR.
+--- Shape: 'Title 32' (PLACEHOLDER (14)) ---
+    Left=0.80", Top=0.40", Width=11.73", Height=0.80"
+    Text (1 paragraphs):
+      • Introduction & Project Context
+--- Shape: 'Picture 33' (PICTURE (13)) ---
+    Left=7.80", Top=1.50", Width=4.70", Height=2.27"
+    [PICTURE]: image.png
+--- Shape: 'TextBox 34' (TEXT_BOX (17)) ---
+    Left=7.80", Top=4.90", Width=4.70", Height=1.50"
+    Text (2 paragraphs):
+      • Figure 1: RoadScan AI Live Edge Vision Pipeline
+      • Real-time YOLO11n detection with ByteTrack persistent ID tracking on live dashcam road footage.
+
+==================== SLIDE 4 ====================
+Layout: Title and Content
+--- Shape: 'Google Shape;120;p6' (PLACEHOLDER (14)) ---
+    Left=0.80", Top=0.40", Width=11.73", Height=0.80"
+    Text (1 paragraphs):
+      • Problem Statement & Urban Challenges
+--- Shape: 'Google Shape;122;p6' (TEXT_BOX (17)) ---
+    Left=0.80", Top=1.35", Width=11.73", Height=5.30"
+    Text (6 paragraphs):
+      • Problem Statement Reference: Smart India Hackathon SIH 26124 | Organization: Bharat Electronics Limited (BEL)
+      • • 1. Delayed Road Hazard Remediation & High Survey Costs: Potholes, damaged dividers, and waterlogging persist for weeks without inspection, causing fatal accidents and vehicle damage. Inspection currently relies on slow citizen complaints or costly dedicated survey vehicles ($$$).
+      • • 2. Severe Spatial Blind Spots of Static CCTVs: Fixed surveillance cameras cover <3% of the municipal road network; scaling static cameras across entire cities costs tens of crores of rupees and leaves vast coverage gaps on arterial and suburban streets.
+      • • 3. Cellular Bandwidth & Cloud Saturation Bottleneck: Streaming raw 1080p dashcam video from 500 transit buses would demand ~1.5 Gbps continuous uplink, collapsing 4G/5G cellular towers and creating huge recurring cloud egress and storage bills.
+      • • 4. Multi-Bus Spatial Duplication & False Positive Clutter: Multiple buses traveling the same transit corridor report identical defects dozens of times daily. Naive systems flood municipal databases with duplicate entries and overwhelm maintenance work crews.
+      • • The Proposed Paradigm: Decentralized edge-AI processing on transit fleets transmitting lightweight telemetry (<5 KB JSON) with event-driven incident recording and spatio-temporal deduplication in the cloud.
+
+==================== SLIDE 5 ====================
+Layout: Title and Content
+--- Shape: 'Title 28' (PLACEHOLDER (14)) ---
+    Left=0.80", Top=0.40", Width=11.73", Height=0.80"
+    Text (1 paragraphs):
+      • Project Objectives & Scope of Work
+--- Shape: 'Text Placeholder 2' (AUTO_SHAPE (1)) ---
+    Left=0.80", Top=1.35", Width=11.73", Height=5.30"
+    Text (8 paragraphs):
+      • Primary Technical Objectives:
+      • • Objective 1: Lightweight Edge-AI Vision Pipeline: Develop and calibrate an INT8-quantized YOLO11n computer vision detector capable of real-time road hazard detection (potholes, cracks, waterlogging) at ≥25 FPS on low-power edge compute.
+      • • Objective 2: Persistent Multi-Object Tracking (ByteTrack): Implement ByteTrack Kalman-filter multi-object tracking to assign consistent track IDs across consecutive video frames, computing defect surface area and eliminating intra-video double counting.
+      • • Objective 3: Circular RAM Buffer & Kinematic-Triggered ANPR: Maintain a rolling 15-second uncompressed video buffer in edge RAM, triggered by kinematic/trajectory anomalies for automated high-res ANPR and incident clip capture.
+      • • Objective 4: Centralized GIS Dashboard & Spatial Deduplication: Build an interactive Web GIS dashboard with Haversine / ST-DBSCAN spatio-temporal clustering to consolidate repeat fleet observations into verified municipal repair tickets.
+      • Scope Division Across Project Phases:
+      • • Minor Project (Review II / Phase 1): Core edge-AI detection pipeline, ByteTrack persistent tracking, GPS sentence binding, and interactive Leaflet GIS dashboard prototype.
+      • • Major Project (Phase 2): Physical edge hardware deployment on Raspberry Pi 5 + Hailo-8 NPU, vehicle CAN-bus integration, and direct municipal PWD API integration.
+
+==================== SLIDE 6 ====================
+Layout: Title and Content
+--- Shape: 'Title 28' (PLACEHOLDER (14)) ---
+    Left=0.80", Top=0.40", Width=11.73", Height=0.80"
+    Text (1 paragraphs):
+      • Applications & Real-World Stakeholder Impact
+--- Shape: 'Text Placeholder 2' (AUTO_SHAPE (1)) ---
+    Left=0.80", Top=1.35", Width=11.73", Height=5.30"
+    Text (9 paragraphs):
+      • 1. Municipal Corporations & Public Works Department (PWD):
+      • • Automated Road Asset Inventory: Living digital registry of all road hazards with GPS coordinates and defect severity.
+      • • Prioritized Repair Dispatch: Data-driven budgeting and work-order dispatch based on Road Hazard Severity Index, reducing municipal road survey costs by up to 40%.
+      • 2. Smart City Traffic & Urban Mobility Authorities:
+      • • Fleet-Derived Traffic Density Heatmaps: Real-time congestion monitoring, bottleneck identification, and average corridor transit speeds without expensive stationary inductive loop detectors.
+      • 3. Law Enforcement & Traffic Police:
+      • • Tamper-Evident Forensic Incident Dossiers: Automated capture of pre-buffered 15-second incident video clips, verified vehicle license plates, and synchronized GPS timestamps for hit-and-run investigations.
+      • 4. Public Transit Corporations (PMPML / BMTC / BEST / DTC):
+      • • Fleet Suspension Protection: Corridor roughness mapping to avoid heavily degraded road corridors and optimize bus preventive maintenance schedules, extending vehicle lifespan.
+
+==================== SLIDE 7 ====================
+Layout: Title and Content
+--- Shape: 'Google Shape;128;g16432b3a3c0_0_0' (TEXT_BOX (17)) ---
+    Left=0.80", Top=1.35", Width=11.73", Height=5.30"
+    Text (6 paragraphs):
+      • Comprehensive Literature Review: Analysis of 23 Peer-Reviewed Papers (2024–2026) across Nature, IEEE, Elsevier, and MDPI:
+      • • Paper 1: Shiva Shankar (2025) — Edge AI Feasibility: Proved that INT8-quantized YOLO achieves 58 FPS on a Raspberry Pi 5 with a tiny 48 MB footprint, confirming real-time edge feasibility without high-power GPUs.
+      • • Paper 2: Meng Huang, Xi Kuai et al. (Elsevier CEUS, 2024) — Transit Fleet Coverage: Demonstrated that instrumenting just 15%–25% of municipal bus routes achieves >85% spatial coverage of urban road networks within 48 hours, establishing fleet superiority over static sensors.
+      • • Paper 3: Dinesh Sahu, Shiv Prakash et al. (Nature Scientific Reports, 2026) — Bandwidth Reduction: Verified that edge-level anomaly filtering slashes network bandwidth consumption by over 75%, proving the necessity of lightweight edge telemetry over raw video streaming.
+      • • Paper 4: Ahmad Ijaz, Tayyba Sarfraz et al. (2026) — Motion-Blur Robust ANPR: Proved that multi-frame Laplacian variance selection overcomes vehicle motion blur and camera vibration, ensuring accurate OCR extraction from moving transit vehicles.
+      • • Critical Research Gap Identified: Existing literature investigates road damage, traffic density, or license plate recognition in silos. No existing system unifies multi-task edge CV, in-memory circular buffering, and spatio-temporal multi-bus deduplication into an end-to-end urban platform.
+--- Shape: 'Title 32' (PLACEHOLDER (14)) ---
+    Left=0.80", Top=0.40", Width=11.73", Height=0.80"
+    Text (1 paragraphs):
+      • Literature Review & State of the Art
+
+==================== SLIDE 8 ====================
+Layout: Title and Content
+--- Shape: 'Title 33' (PLACEHOLDER (14)) ---
+    Left=0.80", Top=0.40", Width=11.73", Height=0.80"
+    Text (1 paragraphs):
+      • System Architecture & Block Diagram
+--- Shape: 'Google Shape;135;p8' (TEXT_BOX (17)) ---
+    Left=0.80", Top=6.80", Width=1.00", Height=0.10"
+    Text (1 paragraphs):
+--- Shape: 'Picture 34' (PICTURE (13)) ---
+    Left=0.80", Top=1.30", Width=11.73", Height=5.25"
+    [PICTURE]: image.png
+
+==================== SLIDE 9 ====================
+Layout: Title and Content
+--- Shape: 'Title 1' (PLACEHOLDER (14)) ---
+    Left=0.80", Top=0.40", Width=11.73", Height=0.80"
+    Text (1 paragraphs):
+      • Implementation Methodology & Core Algorithms
+--- Shape: 'Content Placeholder 2' (PLACEHOLDER (14)) ---
+    Left=0.80", Top=1.35", Width=11.73", Height=5.30"
+    Text (10 paragraphs):
+      • Method 1: Edge Computer Vision & ByteTrack Multi-Object Association
+      • • Model Pipeline: YOLO11n fine-tuned on Indian road datasets (RDD2022 + Roboflow) and quantized to INT8 ONNX (≥25 FPS inference).
+      • • Tracking Algorithm: ByteTrack Kalman filter state estimation [u, v, s, r, u', v', s']^T with two-stage IoU association. Matches high- and low-confidence detections to maintain persistent defect IDs and compute surface area without duplicate counting.
+      • Method 2: Kinematic-Triggered RAM Ring Buffer & Laplacian Sharpness ANPR
+      • • Circular Buffer: 15-second FIFO circular queue in edge RAM preserving pre- and post-incident frames with zero flash drive wear.
+      • • Trigger Logic: Deceleration anomaly (>0.4g) or trajectory deviation locks incident video window.
+      • • Sharpness Score: Laplacian variance Var(∇² I_gray) selects the sharpest vehicle crop for OCR license plate extraction, eliminating motion blur.
+      • Method 3: Spatio-Temporal Deduplication & Asymptotic Bayesian Verification
+      • • Haversine Distance Clustering: Observations within d ≤ 3.5 m update existing records: d = 2R · arcsin(√(sin²(Δφ/2) + cos φ1 · cos φ2 · sin²(Δλ/2))).
+      • • Bayesian Confidence Accumulation: Formula P(Verified) = 1 - ∏(1 - c_i) — three independent fleet passes with c ≥ 0.80 achieve >99.2% verification confidence, filtering out spurious false positives.
+
+==================== SLIDE 10 ====================
+Layout: Title and Content
+--- Shape: 'Title 1' (PLACEHOLDER (14)) ---
+    Left=0.80", Top=0.40", Width=11.73", Height=0.80"
+    Text (1 paragraphs):
+      • Expected Outcomes & Review II Progress
+--- Shape: 'Content Placeholder 2' (PLACEHOLDER (14)) ---
+    Left=0.80", Top=1.35", Width=6.80", Height=5.30"
+    Text (11 paragraphs):
+      • Project Review II Status: ~45% Completed (Functional Prototype Stage)
+      • A. Achieved Outcomes (Current Review II Milestones):
+      • • Road Defect Detection: YOLO11n model fine-tuned and verified on Indian road footage for pothole and crack localization.
+      • • Persistent Object Tracking: ByteTrack tracking logic implemented, ensuring stable defect IDs across frames.
+      • • Edge Buffer & Telemetry Schema: Circular RAM buffer architecture and MQTT JSON payload schema completed.
+      • • Interactive Web Dashboard Prototype: Built functional dashboard interface displaying real-time detection telemetry and defect coordinates.
+      • B. Expected Final Deliverables & Performance Targets:
+      • • Edge Processing Throughput: Real-time edge inference at ≥25 FPS with <50ms processing latency.
+      • • Cellular Uplink Savings: ≥90% bandwidth reduction compared to streaming raw dashcam video (<5 KB JSON metadata).
+      • • Deduplication Accuracy: ≥95% accuracy in clustering repeat sightings across fleet passes.
+      • • Municipal Integration: Automated export of PWD repair work-orders prioritized by Road Hazard Severity Index.
+--- Shape: 'Picture 3' (PICTURE (13)) ---
+    Left=7.80", Top=1.50", Width=4.70", Height=2.25"
+    [PICTURE]: image.png
+--- Shape: 'TextBox 4' (TEXT_BOX (17)) ---
+    Left=7.80", Top=4.90", Width=4.70", Height=1.50"
+    Text (2 paragraphs):
+      • Figure 2: Functional RoadScan AI Web Dashboard
+      • Interactive web interface providing video ingestion, threshold tuning, defect tracking preview, and quantitative output metrics.
+
+==================== SLIDE 11 ====================
+Layout: Title and Content
+--- Shape: 'Title 26' (PLACEHOLDER (14)) ---
+    Left=0.80", Top=0.40", Width=11.73", Height=0.80"
+    Text (1 paragraphs):
+      • Selected Academic & Technical References
+--- Shape: 'Google Shape;141;p11' (TEXT_BOX (17)) ---
+    Left=0.80", Top=1.35", Width=11.73", Height=5.30"
+    Text (7 paragraphs):
+      • [1]  Shiva Shankar, "Lightweight Real-Time Pothole Detection Using Quantized YOLO and Edge AI Deployment," in Proc. IEEE Conference on Computational Intelligence, 2025.
+      • [2]  Meng Huang, Xi Kuai, et al., "Bus-Based Mobile Sensing for City Monitoring: A Geospatial Coverage Analysis," Computers, Environment and Urban Systems, Elsevier, vol. 108, pp. 102061, 2024.
+      • [3]  Dinesh Sahu, Shiv Prakash, et al., "Edge Based Distributed Framework for Real Time Hazard Detection in Smart Transportation Systems," Nature Scientific Reports, vol. 16, no. 1, pp. 1042–1058, 2026.
+      • [4]  V. Sruk, S. Fajt, et al., "Vehicle-as-a-Sensor Approach for Urban Track and Road Anomaly Detection," Sensors, MDPI, vol. 25, no. 4, pp. 1189–1205, 2025.
+      • [5]  Ahmad Ijaz, Tayyba Sarfraz, et al., "AVNPR-Net: Real-Time Deep Learning Framework for Automatic Vehicle Number Plate Recognition," SJER, 2026.
+      • [6]  R. R. Sahoo, S. Mishra, et al., "iWatchRoad: Scalable Detection and Geospatial Visualization of Potholes in Smart Cities," IEEE Transactions on Intelligent Transportation Systems, vol. 26, 2025.
+      • [7]  City of Edmonton, "AI Pothole Detection Using Mobile Cameras & YOLO Architecture," Open Municipal Technical Framework, 2024.
+
+==================== SLIDE 12 ====================
+Layout: End Slide
+--- Shape: '标题' (PLACEHOLDER (14)) ---
+    Left=1.00", Top=0.80", Width=11.33", Height=5.80"
+    Text (8 paragraphs):
+      • Thank You!
+      • Questions & Discussion
+      • AI-Powered Mobile Urban Intelligence Platform Using Public Transport Fleet
+      • Problem Statement: SIH 26124 | Organization: Bharat Electronics Limited (BEL)
+      • Project Team Members:
+      • Pranav Mhasaye (CS) [PRN: 202501040309]   •   Abhishree Nalgintwar (CS) [PRN: 202501040306]
+      • Jayesh Nehete (CS) [PRN: 202501040322]   •   Loni Yash Shrishail (E&TC) [PRN: 202501070063]
+      • Department of Computer Engineering | MIT Academy of Engineering, Pune
+--- Shape: 'Title 36' (AUTO_SHAPE (1)) ---
+    Left=0.80", Top=6.80", Width=1.00", Height=0.10"
+    Text (1 paragraphs):

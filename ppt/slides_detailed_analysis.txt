@@ -1,0 +1,380 @@
+
+=================================================================
+SLIDE 1: Layout='Title Slide'
+=================================================================
+
+--- Shape [0]: 'Google Shape;87;p1' (Type: TEXT_BOX (17)) ---
+    Left: 2.84", Top: 1.47", Width: 8.13", Height: 0.57"
+    Fill type: BACKGROUND (5)
+    TextFrame has 1 paragraphs:
+      P[0] (level=0, align=LEFT (1)): ' Department of Computer Engineering'
+          Runs: ["' Department of Computer ' (Font: Times New Roman, Size: 28.0pt, Bold: True, Color: None)", "'Engineering' (Font: Times New Roman, Size: 28.0pt, Bold: True, Color: None)"]
+
+--- Shape [1]: 'Google Shape;88;p1' (Type: TEXT_BOX (17)) ---
+    Left: 0.63", Top: 5.66", Width: 3.08", Height: 1.81"
+    Fill type: BACKGROUND (5)
+    TextFrame has 2 paragraphs:
+      P[0] (level=0, align=LEFT (1)): 'Guide:'
+          Runs: ["'Guide:' (Font: Times New Roman, Size: 24.0pt, Bold: False, Color: None)"]
+      P[1] (level=0, align=LEFT (1)): 'Mr/Mrs/Dr. ……..'
+          Runs: ["'Mr/Mrs/Dr. ……..' (Font: Times New Roman, Size: 24.0pt, Bold: False, Color: None)"]
+
+--- Shape [2]: '标题' (Type: PLACEHOLDER (14)) ---
+    Left: 1.15", Top: 2.19", Width: 11.04", Height: 1.42"
+    Fill type: None
+    TextFrame has 1 paragraphs:
+      P[0] (level=0, align=CENTER (2)): 'AY 2026-27(Semester-III)'
+          Runs: ["'AY 202' (Font: None, Size: Nonept, Bold: None, Color: None)", "'6' (Font: None, Size: Nonept, Bold: None, Color: None)", "'-2' (Font: None, Size: Nonept, Bold: None, Color: None)", "'7' (Font: None, Size: Nonept, Bold: None, Color: None)", "'(Semester-III)' (Font: None, Size: Nonept, Bold: None, Color: None)"]
+
+--- Shape [3]: '副标题' (Type: PLACEHOLDER (14)) ---
+    Left: 1.15", Top: 0.44", Width: 11.04", Height: 1.60"
+    Fill type: None
+    TextFrame has 3 paragraphs:
+      P[0] (level=0, align=CENTER (2)): 'SY-Project Design Presentation (Review II)'
+          Runs: ["'S' (Font: Times New Roman, Size: 36.0pt, Bold: None, Color: None)", "'Y' (Font: Times New Roman, Size: 36.0pt, Bold: None, Color: None)", "'-' (Font: Times New Roman, Size: 36.0pt, Bold: None, Color: None)", "'Project Design' (Font: Times New Roman, Size: 36.0pt, Bold: None, Color: None)", "' Presentation' (Font: Times New Roman, Size: 36.0pt, Bold: None, Color: None)", "' (Review ' (Font: Times New Roman, Size: 36.0pt, Bold: None, Color: None)", "'II' (Font: Times New Roman, Size: 36.0pt, Bold: None, Color: None)", "')' (Font: Times New Roman, Size: 36.0pt, Bold: None, Color: None)"]
+      P[1] (level=0, align=CENTER (2)): ''
+      P[2] (level=0, align=CENTER (2)): ''
+
+--- Shape [4]: 'Title 54' (Type: AUTO_SHAPE (1)) ---
+    Left: 2.00", Top: 3.05", Width: 8.71", Height: 1.32"
+    Fill type: BACKGROUND (5)
+    TextFrame has 1 paragraphs:
+      P[0] (level=0, align=CENTER (2)): 'Title of the Project Design'
+          Runs: ["'Title of the Project Design' (Font: None, Size: Nonept, Bold: None, Color: None)"]
+
+--- Shape [5]: 'Text Box 61' (Type: TEXT_BOX (17)) ---
+    Left: 7.16", Top: 4.18", Width: 6.67", Height: 2.94"
+    Fill type: BACKGROUND (5)
+    TextFrame has 5 paragraphs:
+      P[0] (level=0, align=CENTER (2)): 'Students Name:'
+          Runs: ["'Students Name:' (Font: Times New Roman, Size: 40.0pt, Bold: None, Color: None)"]
+      P[1] (level=0, align=CENTER (2)): 'Abc (roll number)'
+          Runs: ["'Abc (roll number)' (Font: Times New Roman, Size: 40.0pt, Bold: None, Color: None)"]
+      P[2] (level=0, align=CENTER (2)): 'Abc (roll number)'
+          Runs: ["'Abc (roll number)' (Font: Times New Roman, Size: 40.0pt, Bold: None, Color: None)"]
+      P[3] (level=0, align=CENTER (2)): 'Abc (roll number)'
+          Runs: ["'Abc (roll number)' (Font: Times New Roman, Size: 40.0pt, Bold: None, Color: None)"]
+      P[4] (level=0, align=CENTER (2)): 'Abc (roll number)'
+          Runs: ["'Abc (roll number)' (Font: Times New Roman, Size: 40.0pt, Bold: None, Color: None)"]
+
+=================================================================
+SLIDE 2: Layout='Title and Content'
+=================================================================
+
+--- Shape [0]: 'Title 25' (Type: PLACEHOLDER (14)) ---
+    Left: 0.76", Top: 0.39", Width: 11.81", Height: 0.79"
+    Fill type: None
+    TextFrame has 1 paragraphs:
+      P[0] (level=0, align=CENTER (2)): 'Index'
+          Runs: ["'Index' (Font: None, Size: Nonept, Bold: None, Color: None)"]
+
+--- Shape [1]: 'Content Placeholder 27' (Type: PLACEHOLDER (14)) ---
+    Left: 0.76", Top: 1.42", Width: 11.81", Height: 5.33"
+    Fill type: None
+    TextFrame has 1 paragraphs:
+      P[0] (level=0, align=None): ''
+
+--- Shape [2]: 'Google Shape;95;p2' (Type: TEXT_BOX (17)) ---
+    Left: 0.76", Top: 1.42", Width: 11.81", Height: 5.33"
+    Fill type: BACKGROUND (5)
+    TextFrame has 10 paragraphs:
+      P[0] (level=0, align=LEFT (1)): ''
+      P[1] (level=0, align=LEFT (1)): 'Introduction '
+          Runs: ["'Introduction' (Font: Times New Roman, Size: 28.0pt, Bold: True, Color: None)", "' ' (Font: Times New Roman, Size: Nonept, Bold: True, Color: None)"]
+      P[2] (level=0, align=LEFT (1)): 'Problem Statement '
+          Runs: ["'Problem Statement ' (Font: Times New Roman, Size: 28.0pt, Bold: True, Color: None)"]
+      P[3] (level=0, align=LEFT (1)): 'Objectives and Scope'
+          Runs: ["'Objectives and Scope' (Font: Times New Roman, Size: 28.0pt, Bold: True, Color: None)"]
+      P[4] (level=0, align=LEFT (1)): 'Applications'
+          Runs: ["'Applications' (Font: Times New Roman, Size: Nonept, Bold: True, Color: None)"]
+      P[5] (level=0, align=LEFT (1)): 'Literature Review'
+          Runs: ["'Literature Review' (Font: Times New Roman, Size: Nonept, Bold: True, Color: None)"]
+      P[6] (level=0, align=LEFT (1)): 'blockdiagram/Methodology/Algorithm'
+          Runs: ["'blockdiagram/Methodology/Algorithm' (Font: Times New Roman, Size: Nonept, Bold: True, Color: None)"]
+      P[7] (level=0, align=LEFT (1)): 'Expected outcome'
+          Runs: ["'Expected outcome' (Font: Times New Roman, Size: Nonept, Bold: True, Color: None)"]
+      P[8] (level=0, align=LEFT (1)): 'References'
+          Runs: ["'References' (Font: Times New Roman, Size: 28.0pt, Bold: True, Color: None)"]
+      P[9] (level=0, align=LEFT (1)): ''
+
+=================================================================
+SLIDE 3: Layout='Title and Content'
+=================================================================
+
+--- Shape [0]: 'Content Placeholder 34' (Type: PLACEHOLDER (14)) ---
+    Left: 0.76", Top: 1.42", Width: 11.81", Height: 5.33"
+    Fill type: None
+    TextFrame has 1 paragraphs:
+      P[0] (level=0, align=None): ''
+
+--- Shape [1]: 'Google Shape;102;p3' (Type: TEXT_BOX (17)) ---
+    Left: 0.92", Top: 2.00", Width: 11.50", Height: 4.76"
+    Fill type: BACKGROUND (5)
+    TextFrame has 2 paragraphs:
+      P[0] (level=0, align=LEFT (1)): 'Text with some figure/diagram to explain'
+          Runs: ["'Text with some figure/diagram to explain' (Font: Times New Roman, Size: Nonept, Bold: None, Color: None)"]
+      P[1] (level=0, align=LEFT (1)): 'About the introduction of your project'
+          Runs: ["'About the introduction of your project' (Font: Times New Roman, Size: Nonept, Bold: None, Color: None)"]
+
+--- Shape [2]: 'Google Shape;103;p3' (Type: TEXT_BOX (17)) ---
+    Left: 7.26", Top: 5.47", Width: 6.30", Height: 0.85"
+    Fill type: BACKGROUND (5)
+    TextFrame has 1 paragraphs:
+      P[0] (level=0, align=LEFT (1)): ''
+
+--- Shape [3]: 'Title 32' (Type: PLACEHOLDER (14)) ---
+    Left: 0.76", Top: 0.39", Width: 11.81", Height: 0.79"
+    Fill type: None
+    TextFrame has 1 paragraphs:
+      P[0] (level=0, align=CENTER (2)): 'Introduction'
+          Runs: ["'Introduction' (Font: None, Size: Nonept, Bold: None, Color: None)"]
+
+=================================================================
+SLIDE 4: Layout='Title and Content'
+=================================================================
+
+--- Shape [0]: 'Google Shape;120;p6' (Type: PLACEHOLDER (14)) ---
+    Left: 0.76", Top: 0.39", Width: 11.81", Height: 0.79"
+    Fill type: None
+    TextFrame has 1 paragraphs:
+      P[0] (level=0, align=CENTER (2)): 'Problem statement'
+          Runs: ["'Problem statement' (Font: None, Size: Nonept, Bold: None, Color: None)"]
+
+--- Shape [1]: 'Content Placeholder 17' (Type: PLACEHOLDER (14)) ---
+    Left: 0.76", Top: 1.42", Width: 11.81", Height: 5.33"
+    Fill type: None
+    TextFrame has 1 paragraphs:
+      P[0] (level=0, align=None): ''
+
+--- Shape [2]: 'Google Shape;122;p6' (Type: TEXT_BOX (17)) ---
+    Left: 0.76", Top: 1.42", Width: 11.81", Height: 5.33"
+    Fill type: BACKGROUND (5)
+    TextFrame has 1 paragraphs:
+      P[0] (level=0, align=LEFT (1)): 'Your project title here…'
+          Runs: ["'Your project title here…' (Font: Times New Roman, Size: 28.0pt, Bold: None, Color: None)"]
+
+=================================================================
+SLIDE 5: Layout='Title and Content'
+=================================================================
+
+--- Shape [0]: 'Title 28' (Type: PLACEHOLDER (14)) ---
+    Left: 0.76", Top: 0.39", Width: 11.81", Height: 0.79"
+    Fill type: None
+    TextFrame has 1 paragraphs:
+      P[0] (level=0, align=CENTER (2)): 'Objectives and Scope'
+          Runs: ["'Objectives and Scope' (Font: None, Size: Nonept, Bold: None, Color: None)"]
+
+--- Shape [1]: 'Content Placeholder 29' (Type: PLACEHOLDER (14)) ---
+    Left: 0.76", Top: 1.42", Width: 11.81", Height: 5.33"
+    Fill type: None
+    TextFrame has 1 paragraphs:
+      P[0] (level=0, align=None): ''
+
+--- Shape [2]: 'Text Placeholder 2' (Type: AUTO_SHAPE (1)) ---
+    Left: 0.76", Top: 1.42", Width: 11.81", Height: 5.33"
+    Fill type: BACKGROUND (5)
+    TextFrame has 5 paragraphs:
+      P[0] (level=0, align=LEFT (1)): '1.  '
+          Runs: ["'1.  ' (Font: Times New Roman, Size: 18.0pt, Bold: True, Color: None)"]
+      P[1] (level=0, align=LEFT (1)): '2.'
+          Runs: ["'2.' (Font: Times New Roman, Size: 18.0pt, Bold: True, Color: None)"]
+      P[2] (level=0, align=LEFT (1)): '3.'
+          Runs: ["'3.' (Font: Times New Roman, Size: 18.0pt, Bold: True, Color: None)"]
+      P[3] (level=0, align=LEFT (1)): '4.'
+          Runs: ["'4.' (Font: Times New Roman, Size: 18.0pt, Bold: True, Color: None)"]
+      P[4] (level=0, align=None): ''
+
+=================================================================
+SLIDE 6: Layout='Title and Content'
+=================================================================
+
+--- Shape [0]: 'Title 28' (Type: PLACEHOLDER (14)) ---
+    Left: 0.76", Top: 0.39", Width: 11.81", Height: 0.79"
+    Fill type: None
+    TextFrame has 1 paragraphs:
+      P[0] (level=0, align=CENTER (2)): 'Applications of Project management tools'
+          Runs: ["'Applications of Project management tools' (Font: None, Size: Nonept, Bold: None, Color: None)"]
+
+--- Shape [1]: 'Content Placeholder 29' (Type: PLACEHOLDER (14)) ---
+    Left: 0.76", Top: 1.42", Width: 11.81", Height: 5.33"
+    Fill type: None
+    TextFrame has 1 paragraphs:
+      P[0] (level=0, align=None): ''
+
+--- Shape [2]: 'Text Placeholder 2' (Type: AUTO_SHAPE (1)) ---
+    Left: 0.76", Top: 1.42", Width: 11.81", Height: 5.33"
+    Fill type: BACKGROUND (5)
+    TextFrame has 5 paragraphs:
+      P[0] (level=0, align=LEFT (1)): '1.  '
+          Runs: ["'1.  ' (Font: Times New Roman, Size: 18.0pt, Bold: True, Color: None)"]
+      P[1] (level=0, align=LEFT (1)): '2.'
+          Runs: ["'2.' (Font: Times New Roman, Size: 18.0pt, Bold: True, Color: None)"]
+      P[2] (level=0, align=LEFT (1)): '3.'
+          Runs: ["'3.' (Font: Times New Roman, Size: 18.0pt, Bold: True, Color: None)"]
+      P[3] (level=0, align=LEFT (1)): '4.'
+          Runs: ["'4.' (Font: Times New Roman, Size: 18.0pt, Bold: True, Color: None)"]
+      P[4] (level=0, align=None): ''
+
+=================================================================
+SLIDE 7: Layout='Title and Content'
+=================================================================
+
+--- Shape [0]: 'Content Placeholder 34' (Type: PLACEHOLDER (14)) ---
+    Left: 0.76", Top: 1.42", Width: 11.81", Height: 5.33"
+    Fill type: None
+    TextFrame has 1 paragraphs:
+      P[0] (level=0, align=None): ''
+
+--- Shape [1]: 'Google Shape;128;g16432b3a3c0_0_0' (Type: TEXT_BOX (17)) ---
+    Left: 0.92", Top: 2.87", Width: 11.50", Height: 3.71"
+    Fill type: BACKGROUND (5)
+    TextFrame has 5 paragraphs:
+      P[0] (level=0, align=LEFT (1)): 'Paper 1.  '
+          Runs: ["'Paper ' (Font: Times New Roman, Size: 24.0pt, Bold: True, Color: None)", "'1.  ' (Font: Times New Roman, Size: 24.0pt, Bold: True, Color: None)"]
+      P[1] (level=0, align=LEFT (1)): 'Paper 2.'
+          Runs: ["'Paper 2' (Font: Times New Roman, Size: 24.0pt, Bold: True, Color: None)", "'.' (Font: Times New Roman, Size: 24.0pt, Bold: True, Color: None)"]
+      P[2] (level=0, align=LEFT (1)): 'Paper 3.'
+          Runs: ["'Paper ' (Font: Times New Roman, Size: 24.0pt, Bold: True, Color: None)", "'3.' (Font: Times New Roman, Size: 24.0pt, Bold: True, Color: None)"]
+      P[3] (level=0, align=LEFT (1)): 'Paper 4.'
+          Runs: ["'Paper 4' (Font: Times New Roman, Size: 24.0pt, Bold: True, Color: None)", "'.' (Font: Times New Roman, Size: 24.0pt, Bold: True, Color: None)"]
+      P[4] (level=1, align=LEFT (1)): ''
+
+--- Shape [2]: 'Google Shape;129;g16432b3a3c0_0_0' (Type: TEXT_BOX (17)) ---
+    Left: 1.08", Top: 1.59", Width: 11.50", Height: 1.13"
+    Fill type: BACKGROUND (5)
+    TextFrame has 1 paragraphs:
+      P[0] (level=0, align=LEFT (1)): ''
+
+--- Shape [3]: 'Title 32' (Type: PLACEHOLDER (14)) ---
+    Left: 0.76", Top: 0.39", Width: 11.81", Height: 0.79"
+    Fill type: None
+    TextFrame has 1 paragraphs:
+      P[0] (level=0, align=CENTER (2)): 'Literature Review'
+          Runs: ["'Literature Review' (Font: None, Size: Nonept, Bold: None, Color: None)"]
+
+=================================================================
+SLIDE 8: Layout='Title and Content'
+=================================================================
+
+--- Shape [0]: 'Title 33' (Type: PLACEHOLDER (14)) ---
+    Left: 0.76", Top: 0.39", Width: 11.81", Height: 0.79"
+    Fill type: None
+    TextFrame has 1 paragraphs:
+      P[0] (level=0, align=CENTER (2)): 'Block Diagram'
+          Runs: ["'Block Diagram' (Font: None, Size: Nonept, Bold: None, Color: None)"]
+
+--- Shape [1]: 'Content Placeholder 34' (Type: PLACEHOLDER (14)) ---
+    Left: 0.76", Top: 1.42", Width: 11.81", Height: 5.33"
+    Fill type: None
+    TextFrame has 1 paragraphs:
+      P[0] (level=0, align=None): ''
+
+--- Shape [2]: 'Google Shape;135;p8' (Type: TEXT_BOX (17)) ---
+    Left: 0.76", Top: 1.42", Width: 11.81", Height: 5.33"
+    Fill type: BACKGROUND (5)
+    TextFrame has 5 paragraphs:
+      P[0] (level=0, align=LEFT (1)): 'Block Diagram explanation can be done here…(if possible)'
+          Runs: ["'Block Diagram explanation can be done here…(' (Font: Times New Roman, Size: Nonept, Bold: None, Color: None)", "'if possible' (Font: Times New Roman, Size: Nonept, Bold: True, Color: None)", "')' (Font: Times New Roman, Size: Nonept, Bold: None, Color: None)"]
+      P[1] (level=0, align=LEFT (1)): 'Along with text, some figure, plot, diagram can be used for explanation'
+          Runs: ["'Along with text, some figure, plot, diagram can be used for explanation' (Font: Times New Roman, Size: Nonept, Bold: None, Color: None)"]
+      P[2] (level=0, align=LEFT (1)): ''
+      P[3] (level=0, align=LEFT (1)): ''
+      P[4] (level=0, align=LEFT (1)): ''
+
+=================================================================
+SLIDE 9: Layout='Title and Content'
+=================================================================
+
+--- Shape [0]: 'Title 1' (Type: PLACEHOLDER (14)) ---
+    Left: 0.76", Top: 0.39", Width: 11.81", Height: 0.79"
+    Fill type: None
+    TextFrame has 1 paragraphs:
+      P[0] (level=0, align=None): 'Methodology/Algorithms'
+          Runs: ["'Methodology/Algorithms' (Font: None, Size: Nonept, Bold: None, Color: None)"]
+
+--- Shape [1]: 'Content Placeholder 2' (Type: PLACEHOLDER (14)) ---
+    Left: 0.76", Top: 1.42", Width: 11.81", Height: 5.33"
+    Fill type: None
+    TextFrame has 4 paragraphs:
+      P[0] (level=0, align=None): 'Method 1'
+          Runs: ["'Method 1' (Font: None, Size: Nonept, Bold: True, Color: None)"]
+      P[1] (level=0, align=None): 'Method 2'
+          Runs: ["'Method 2' (Font: None, Size: Nonept, Bold: True, Color: None)"]
+      P[2] (level=0, align=None): 'Method 3'
+          Runs: ["'Method 3' (Font: None, Size: Nonept, Bold: True, Color: None)"]
+      P[3] (level=0, align=None): ''
+
+=================================================================
+SLIDE 10: Layout='Title and Content'
+=================================================================
+
+--- Shape [0]: 'Title 1' (Type: PLACEHOLDER (14)) ---
+    Left: 0.76", Top: 0.39", Width: 11.81", Height: 0.79"
+    Fill type: None
+    TextFrame has 1 paragraphs:
+      P[0] (level=0, align=None): 'Expected Outcome'
+          Runs: ["'Expected Outcome' (Font: None, Size: Nonept, Bold: None, Color: None)"]
+
+--- Shape [1]: 'Content Placeholder 2' (Type: PLACEHOLDER (14)) ---
+    Left: 0.76", Top: 1.42", Width: 11.81", Height: 5.33"
+    Fill type: None
+    TextFrame has 1 paragraphs:
+      P[0] (level=0, align=None): 'Write about either outcome that achieved from your project, if 40-50 % project is completed or if 20-30 % of project is completed, then give expected outcome/result.'
+          Runs: ["'Write about either outcome that achieved from your project, if 40-50 % project is completed or if 20-30 % of project is completed, then give expected outcome/result.' (Font: None, Size: Nonept, Bold: None, Color: None)"]
+
+=================================================================
+SLIDE 11: Layout='Title and Content'
+=================================================================
+
+--- Shape [0]: 'Title 26' (Type: PLACEHOLDER (14)) ---
+    Left: 0.76", Top: 0.39", Width: 11.81", Height: 0.79"
+    Fill type: None
+    TextFrame has 1 paragraphs:
+      P[0] (level=0, align=CENTER (2)): 'Selected References'
+          Runs: ["'Selected References' (Font: None, Size: Nonept, Bold: None, Color: None)"]
+
+--- Shape [1]: 'Content Placeholder 27' (Type: PLACEHOLDER (14)) ---
+    Left: 0.76", Top: 1.42", Width: 11.81", Height: 5.33"
+    Fill type: None
+    TextFrame has 1 paragraphs:
+      P[0] (level=0, align=None): ''
+
+--- Shape [2]: 'Google Shape;141;p11' (Type: TEXT_BOX (17)) ---
+    Left: 0.76", Top: 1.42", Width: 11.81", Height: 5.33"
+    Fill type: BACKGROUND (5)
+    TextFrame has 4 paragraphs:
+      P[0] (level=0, align=LEFT (1)): 'At least 4-5 good references. More is always good. (Can have papers, books, websites, blogs, manuals etc…)'
+          Runs: ["'At least 4-5 good references. More is always good. (Can have papers, books, websites, blogs, manuals etc…)' (Font: Times New Roman, Size: Nonept, Bold: None, Color: None)"]
+      P[1] (level=0, align=LEFT (1)): 'For example:'
+          Runs: ["'For example:' (Font: Times New Roman, Size: Nonept, Bold: None, Color: None)"]
+      P[2] (level=0, align=JUSTIFY (4)): '[1] Jyothi Peta and Srinivas Koppu, "An IoT-Based Framework and Ensemble Optimized Deep Maxout Network Model for Breast Cancer Classification". Electronics 2022, 11, 4137. https://doi.org/10.3390/electronics11244137 '
+          Runs: ["'[1] Jyothi Peta and Srinivas ' (Font: Times New Roman, Size: 18.0pt, Bold: None, Color: None)", "'Koppu' (Font: Times New Roman, Size: 18.0pt, Bold: None, Color: None)", '\', "An IoT-Based Framework and Ensemble Optimized Deep \' (Font: Times New Roman, Size: 18.0pt, Bold: None, Color: None)', "'Maxout' (Font: Times New Roman, Size: 18.0pt, Bold: None, Color: None)", '\' Network Model for Breast Cancer Classification". Electronics 2022, 11, 4137. https://doi.org/10.3390/electronics11244137 \' (Font: Times New Roman, Size: 18.0pt, Bold: None, Color: None)']
+      P[3] (level=0, align=JUSTIFY (4)): '[2] MARIO MOLINARA, MARCO FERDINANDI,GIANNI CERRO, LUIGI FERRIGNO and ETTORE MASSERA, "An end to end indoor air monitoring system based on machine learning andSENSIPLUS platform".  in IEEE Access, vol. 8, pp. 72204-72215, 2020, doi: 10.1109/ACCESS.2020.2987756. '
+          Runs: ['\'[2] MARIO MOLINARA, MARCO FERDINANDI,GIANNI CERRO, LUIGI FERRIGNO and ETTORE MASSERA, "An end to end indoor air monitoring system based on machine learning \' (Font: Times New Roman, Size: 18.0pt, Bold: None, Color: None)', "'andSENSIPLUS' (Font: Times New Roman, Size: 18.0pt, Bold: None, Color: None)", '\' platform".  in IEEE Access, vol. 8, pp. 72204-72215, 2020, \' (Font: Times New Roman, Size: 18.0pt, Bold: None, Color: None)', "'doi' (Font: Times New Roman, Size: 18.0pt, Bold: None, Color: None)", "': 10.1109/ACCESS.2020.2987756. ' (Font: Times New Roman, Size: 18.0pt, Bold: None, Color: None)"]
+
+=================================================================
+SLIDE 12: Layout='End Slide'
+=================================================================
+
+--- Shape [0]: '标题' (Type: PLACEHOLDER (14)) ---
+    Left: 1.12", Top: 0.65", Width: 10.10", Height: 3.06"
+    Fill type: None
+    TextFrame has 3 paragraphs:
+      P[0] (level=0, align=LEFT (1)): ''
+      P[1] (level=0, align=LEFT (1)): 'Thank You!!'
+          Runs: ["'Thank You!!' (Font: Times New Roman, Size: 60.0pt, Bold: None, Color: None)"]
+      P[2] (level=0, align=LEFT (1)): 'Any questions.'
+          Runs: ["'Any questions.' (Font: Times New Roman, Size: 60.0pt, Bold: None, Color: None)"]
+
+--- Shape [1]: '署名' (Type: PLACEHOLDER (14)) ---
+    Left: 1.12", Top: 4.48", Width: 7.81", Height: 1.34"
+    Fill type: None
+    TextFrame has 1 paragraphs:
+      P[0] (level=0, align=None): ''
+
+--- Shape [2]: 'Title 36' (Type: AUTO_SHAPE (1)) ---
+    Left: 0.92", Top: 2.00", Width: 11.50", Height: 4.76"
+    Fill type: BACKGROUND (5)
+    TextFrame has 1 paragraphs:
+      P[0] (level=0, align=LEFT (1)): 'Thank You!!'
+          Runs: ["'Thank You!!' (Font: None, Size: Nonept, Bold: None, Color: None)"]

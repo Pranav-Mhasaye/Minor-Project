@@ -1,0 +1,28 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Caches and environments
+.venv/
+venv/
+ENV/
+.cache/
+runs/
+
+# Logs and temp files
+*.log
+
+# IDE specific
+.vscode/
+.idea/
+
+# Large Research Paper PDFs (kept locally, ignored from git remote)
+Research Papers/*.pdf
+Research Papers/*.PDF
+
+# Large video clips (kept locally for testing, ignored from git remote)
+*.mp4
+*.avi
+*.mkv
+*.mov

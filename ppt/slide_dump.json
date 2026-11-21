@@ -1,0 +1,454 @@
+[
+  {
+    "slide_num": 1,
+    "shapes": [
+      {
+        "id": 0,
+        "name": "Google Shape;87;p1",
+        "type": "TEXT_BOX (17)",
+        "text": " Department of Computer Engineering",
+        "paragraphs": [
+          " Department of Computer Engineering"
+        ]
+      },
+      {
+        "id": 1,
+        "name": "Google Shape;88;p1",
+        "type": "TEXT_BOX (17)",
+        "text": "Guide:\nMr/Mrs/Dr. ……..",
+        "paragraphs": [
+          "Guide:",
+          "Mr/Mrs/Dr. …….."
+        ]
+      },
+      {
+        "id": 2,
+        "name": "标题",
+        "type": "PLACEHOLDER (14)",
+        "text": "AY 2026-27(Semester-III)",
+        "paragraphs": [
+          "AY 2026-27(Semester-III)"
+        ]
+      },
+      {
+        "id": 3,
+        "name": "副标题",
+        "type": "PLACEHOLDER (14)",
+        "text": "SY-Project Design Presentation (Review II)\n\n",
+        "paragraphs": [
+          "SY-Project Design Presentation (Review II)",
+          "",
+          ""
+        ]
+      },
+      {
+        "id": 4,
+        "name": "Title 54",
+        "type": "AUTO_SHAPE (1)",
+        "text": "Title of the Project Design",
+        "paragraphs": [
+          "Title of the Project Design"
+        ]
+      },
+      {
+        "id": 5,
+        "name": "Text Box 61",
+        "type": "TEXT_BOX (17)",
+        "text": "Students Name:\nAbc (roll number)\nAbc (roll number)\nAbc (roll number)\nAbc (roll number)",
+        "paragraphs": [
+          "Students Name:",
+          "Abc (roll number)",
+          "Abc (roll number)",
+          "Abc (roll number)",
+          "Abc (roll number)"
+        ]
+      }
+    ]
+  },
+  {
+    "slide_num": 2,
+    "shapes": [
+      {
+        "id": 0,
+        "name": "Title 25",
+        "type": "PLACEHOLDER (14)",
+        "text": "Index",
+        "paragraphs": [
+          "Index"
+        ]
+      },
+      {
+        "id": 1,
+        "name": "Content Placeholder 27",
+        "type": "PLACEHOLDER (14)",
+        "text": "",
+        "paragraphs": [
+          ""
+        ]
+      },
+      {
+        "id": 2,
+        "name": "Google Shape;95;p2",
+        "type": "TEXT_BOX (17)",
+        "text": "\nIntroduction \nProblem Statement \nObjectives and Scope\nApplications\nLiterature Review\nblockdiagram/Methodology/Algorithm\nExpected outcome\nReferences\n",
+        "paragraphs": [
+          "",
+          "Introduction ",
+          "Problem Statement ",
+          "Objectives and Scope",
+          "Applications",
+          "Literature Review",
+          "blockdiagram/Methodology/Algorithm",
+          "Expected outcome",
+          "References",
+          ""
+        ]
+      }
+    ]
+  },
+  {
+    "slide_num": 3,
+    "shapes": [
+      {
+        "id": 0,
+        "name": "Content Placeholder 34",
+        "type": "PLACEHOLDER (14)",
+        "text": "",
+        "paragraphs": [
+          ""
+        ]
+      },
+      {
+        "id": 1,
+        "name": "Google Shape;102;p3",
+        "type": "TEXT_BOX (17)",
+        "text": "Text with some figure/diagram to explain\nAbout the introduction of your project",
+        "paragraphs": [
+          "Text with some figure/diagram to explain",
+          "About the introduction of your project"
+        ]
+      },
+      {
+        "id": 2,
+        "name": "Google Shape;103;p3",
+        "type": "TEXT_BOX (17)",
+        "text": "",
+        "paragraphs": [
+          ""
+        ]
+      },
+      {
+        "id": 3,
+        "name": "Title 32",
+        "type": "PLACEHOLDER (14)",
+        "text": "Introduction",
+        "paragraphs": [
+          "Introduction"
+        ]
+      }
+    ]
+  },
+  {
+    "slide_num": 4,
+    "shapes": [
+      {
+        "id": 0,
+        "name": "Google Shape;120;p6",
+        "type": "PLACEHOLDER (14)",
+        "text": "Problem statement",
+        "paragraphs": [
+          "Problem statement"
+        ]
+      },
+      {
+        "id": 1,
+        "name": "Content Placeholder 17",
+        "type": "PLACEHOLDER (14)",
+        "text": "",
+        "paragraphs": [
+          ""
+        ]
+      },
+      {
+        "id": 2,
+        "name": "Google Shape;122;p6",
+        "type": "TEXT_BOX (17)",
+        "text": "Your project title here…",
+        "paragraphs": [
+          "Your project title here…"
+        ]
+      }
+    ]
+  },
+  {
+    "slide_num": 5,
+    "shapes": [
+      {
+        "id": 0,
+        "name": "Title 28",
+        "type": "PLACEHOLDER (14)",
+        "text": "Objectives and Scope",
+        "paragraphs": [
+          "Objectives and Scope"
+        ]
+      },
+      {
+        "id": 1,
+        "name": "Content Placeholder 29",
+        "type": "PLACEHOLDER (14)",
+        "text": "",
+        "paragraphs": [
+          ""
+        ]
+      },
+      {
+        "id": 2,
+        "name": "Text Placeholder 2",
+        "type": "AUTO_SHAPE (1)",
+        "text": "1.  \n2.\n3.\n4.\n",
+        "paragraphs": [
+          "1.  ",
+          "2.",
+          "3.",
+          "4.",
+          ""
+        ]
+      }
+    ]
+  },
+  {
+    "slide_num": 6,
+    "shapes": [
+      {
+        "id": 0,
+        "name": "Title 28",
+        "type": "PLACEHOLDER (14)",
+        "text": "Applications of Project management tools",
+        "paragraphs": [
+          "Applications of Project management tools"
+        ]
+      },
+      {
+        "id": 1,
+        "name": "Content Placeholder 29",
+        "type": "PLACEHOLDER (14)",
+        "text": "",
+        "paragraphs": [
+          ""
+        ]
+      },
+      {
+        "id": 2,
+        "name": "Text Placeholder 2",
+        "type": "AUTO_SHAPE (1)",
+        "text": "1.  \n2.\n3.\n4.\n",
+        "paragraphs": [
+          "1.  ",
+          "2.",
+          "3.",
+          "4.",
+          ""
+        ]
+      }
+    ]
+  },
+  {
+    "slide_num": 7,
+    "shapes": [
+      {
+        "id": 0,
+        "name": "Content Placeholder 34",
+        "type": "PLACEHOLDER (14)",
+        "text": "",
+        "paragraphs": [
+          ""
+        ]
+      },
+      {
+        "id": 1,
+        "name": "Google Shape;128;g16432b3a3c0_0_0",
+        "type": "TEXT_BOX (17)",
+        "text": "Paper 1.  \nPaper 2.\nPaper 3.\nPaper 4.\n",
+        "paragraphs": [
+          "Paper 1.  ",
+          "Paper 2.",
+          "Paper 3.",
+          "Paper 4.",
+          ""
+        ]
+      },
+      {
+        "id": 2,
+        "name": "Google Shape;129;g16432b3a3c0_0_0",
+        "type": "TEXT_BOX (17)",
+        "text": "",
+        "paragraphs": [
+          ""
+        ]
+      },
+      {
+        "id": 3,
+        "name": "Title 32",
+        "type": "PLACEHOLDER (14)",
+        "text": "Literature Review",
+        "paragraphs": [
+          "Literature Review"
+        ]
+      }
+    ]
+  },
+  {
+    "slide_num": 8,
+    "shapes": [
+      {
+        "id": 0,
+        "name": "Title 33",
+        "type": "PLACEHOLDER (14)",
+        "text": "Block Diagram",
+        "paragraphs": [
+          "Block Diagram"
+        ]
+      },
+      {
+        "id": 1,
+        "name": "Content Placeholder 34",
+        "type": "PLACEHOLDER (14)",
+        "text": "",
+        "paragraphs": [
+          ""
+        ]
+      },
+      {
+        "id": 2,
+        "name": "Google Shape;135;p8",
+        "type": "TEXT_BOX (17)",
+        "text": "Block Diagram explanation can be done here…(if possible)\nAlong with text, some figure, plot, diagram can be used for explanation\n\n\n",
+        "paragraphs": [
+          "Block Diagram explanation can be done here…(if possible)",
+          "Along with text, some figure, plot, diagram can be used for explanation",
+          "",
+          "",
+          ""
+        ]
+      }
+    ]
+  },
+  {
+    "slide_num": 9,
+    "shapes": [
+      {
+        "id": 0,
+        "name": "Title 1",
+        "type": "PLACEHOLDER (14)",
+        "text": "Methodology/Algorithms",
+        "paragraphs": [
+          "Methodology/Algorithms"
+        ]
+      },
+      {
+        "id": 1,
+        "name": "Content Placeholder 2",
+        "type": "PLACEHOLDER (14)",
+        "text": "Method 1\nMethod 2\nMethod 3\n",
+        "paragraphs": [
+          "Method 1",
+          "Method 2",
+          "Method 3",
+          ""
+        ]
+      }
+    ]
+  },
+  {
+    "slide_num": 10,
+    "shapes": [
+      {
+        "id": 0,
+        "name": "Title 1",
+        "type": "PLACEHOLDER (14)",
+        "text": "Expected Outcome",
+        "paragraphs": [
+          "Expected Outcome"
+        ]
+      },
+      {
+        "id": 1,
+        "name": "Content Placeholder 2",
+        "type": "PLACEHOLDER (14)",
+        "text": "Write about either outcome that achieved from your project, if 40-50 % project is completed or if 20-30 % of project is completed, then give expected outcome/result.",
+        "paragraphs": [
+          "Write about either outcome that achieved from your project, if 40-50 % project is completed or if 20-30 % of project is completed, then give expected outcome/result."
+        ]
+      }
+    ]
+  },
+  {
+    "slide_num": 11,
+    "shapes": [
+      {
+        "id": 0,
+        "name": "Title 26",
+        "type": "PLACEHOLDER (14)",
+        "text": "Selected References",
+        "paragraphs": [
+          "Selected References"
+        ]
+      },
+      {
+        "id": 1,
+        "name": "Content Placeholder 27",
+        "type": "PLACEHOLDER (14)",
+        "text": "",
+        "paragraphs": [
+          ""
+        ]
+      },
+      {
+        "id": 2,
+        "name": "Google Shape;141;p11",
+        "type": "TEXT_BOX (17)",
+        "text": "At least 4-5 good references. More is always good. (Can have papers, books, websites, blogs, manuals etc…)\nFor example:\n[1] Jyothi Peta and Srinivas Koppu, \"An IoT-Based Framework and Ensemble Optimized Deep Maxout Network Model for Breast Cancer Classification\". Electronics 2022, 11, 4137. https://doi.org/10.3390/electronics11244137 \n[2] MARIO MOLINARA, MARCO FERDINANDI,GIANNI CERRO, LUIGI FERRIGNO and ETTORE MASSERA, \"An end to end indoor air monitoring system based on machine learning andSENSIPLUS platform\".  in IEEE Access, vol. 8, pp. 72204-72215, 2020, doi: 10.1109/ACCESS.2020.2987756. ",
+        "paragraphs": [
+          "At least 4-5 good references. More is always good. (Can have papers, books, websites, blogs, manuals etc…)",
+          "For example:",
+          "[1] Jyothi Peta and Srinivas Koppu, \"An IoT-Based Framework and Ensemble Optimized Deep Maxout Network Model for Breast Cancer Classification\". Electronics 2022, 11, 4137. https://doi.org/10.3390/electronics11244137 ",
+          "[2] MARIO MOLINARA, MARCO FERDINANDI,GIANNI CERRO, LUIGI FERRIGNO and ETTORE MASSERA, \"An end to end indoor air monitoring system based on machine learning andSENSIPLUS platform\".  in IEEE Access, vol. 8, pp. 72204-72215, 2020, doi: 10.1109/ACCESS.2020.2987756. "
+        ]
+      }
+    ]
+  },
+  {
+    "slide_num": 12,
+    "shapes": [
+      {
+        "id": 0,
+        "name": "标题",
+        "type": "PLACEHOLDER (14)",
+        "text": "\nThank You!!\nAny questions.",
+        "paragraphs": [
+          "",
+          "Thank You!!",
+          "Any questions."
+        ]
+      },
+      {
+        "id": 1,
+        "name": "署名",
+        "type": "PLACEHOLDER (14)",
+        "text": "",
+        "paragraphs": [
+          ""
+        ]
+      },
+      {
+        "id": 2,
+        "name": "Title 36",
+        "type": "AUTO_SHAPE (1)",
+        "text": "Thank You!!",
+        "paragraphs": [
+          "Thank You!!"
+        ]
+      }
+    ]
+  }
+]

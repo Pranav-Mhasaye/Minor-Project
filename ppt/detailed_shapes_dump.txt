@@ -1,0 +1,251 @@
+Slide width: 12192000, height: 6858000
+Inches: 13.33 x 7.50
+
+==================== SLIDE 1 (Layout: Title Slide) ====================
+Shape 0: Name='Google Shape;87;p1', Type=TEXT_BOX (17)
+  Pos: Left=2599055 (2.84in), Top=1347470 (1.47in), Width=7437755 (8.13in), Height=520700 (0.57in)
+  TextFrame: word_wrap=True, margin_l=91425, margin_t=45700
+    P0 (level=0): ' Department of Computer Engineering' | Runs: [' Department of Computer ', Times New Roman, 28.0pt, bold=True], ['Engineering', Times New Roman, 28.0pt, bold=True]
+
+Shape 1: Name='Google Shape;88;p1', Type=TEXT_BOX (17)
+  Pos: Left=574695 (0.63in), Top=5178065 (5.66in), Width=2814593 (3.08in), Height=1655762 (1.81in)
+  TextFrame: word_wrap=True, margin_l=91425, margin_t=45700
+    P0 (level=0): 'Guide:' | Runs: ['Guide:', Times New Roman, 24.0pt, bold=False]
+    P1 (level=0): 'Mr/Mrs/Dr. ……..' | Runs: ['Mr/Mrs/Dr. ……..', Times New Roman, 24.0pt, bold=False]
+
+Shape 2: Name='标题', Type=PLACEHOLDER (14)
+  Pos: Left=1047750 (1.15in), Top=1998900 (2.19in), Width=10096500 (11.04in), Height=1296750 (1.42in)
+  TextFrame: word_wrap=True, margin_l=91440, margin_t=45720
+    P0 (level=0): 'AY 2026-27(Semester-III)' | Runs: ['AY 202', None, Nonept, bold=None], ['6', None, Nonept, bold=None], ['-2', None, Nonept, bold=None], ['7', None, Nonept, bold=None], ['(Semester-III)', None, Nonept, bold=None]
+
+Shape 3: Name='副标题', Type=PLACEHOLDER (14)
+  Pos: Left=1047750 (1.15in), Top=404495 (0.44in), Width=10096500 (11.04in), Height=1458595 (1.60in)
+  TextFrame: word_wrap=True, margin_l=91440, margin_t=45720
+    P0 (level=0): 'SY-Project Design Presentation (Review II)' | Runs: ['S', Times New Roman, 36.0pt, bold=None], ['Y', Times New Roman, 36.0pt, bold=None], ['-', Times New Roman, 36.0pt, bold=None], ['Project Design', Times New Roman, 36.0pt, bold=None], [' Presentation', Times New Roman, 36.0pt, bold=None], [' (Review ', Times New Roman, 36.0pt, bold=None], ['II', Times New Roman, 36.0pt, bold=None], [')', Times New Roman, 36.0pt, bold=None]
+    P1 (level=0): '' | Runs: 
+    P2 (level=0): '' | Runs: 
+
+Shape 4: Name='Title 54', Type=AUTO_SHAPE (1)
+  Pos: Left=1826260 (2.00in), Top=2784475 (3.05in), Width=7961630 (8.71in), Height=1205865 (1.32in)
+  TextFrame: word_wrap=True, margin_l=91425, margin_t=45700
+    P0 (level=0): 'Title of the Project Design' | Runs: ['Title of the Project Design', None, Nonept, bold=None]
+
+Shape 5: Name='Text Box 61', Type=TEXT_BOX (17)
+  Pos: Left=6548755 (7.16in), Top=3825875 (4.18in), Width=6096000 (6.67in), Height=2684145 (2.94in)
+  TextFrame: word_wrap=True, margin_l=0, margin_t=0
+    P0 (level=0): 'Students Name:' | Runs: ['Students Name:', Times New Roman, 40.0pt, bold=None]
+    P1 (level=0): 'Abc (roll number)' | Runs: ['Abc (roll number)', Times New Roman, 40.0pt, bold=None]
+    P2 (level=0): 'Abc (roll number)' | Runs: ['Abc (roll number)', Times New Roman, 40.0pt, bold=None]
+    P3 (level=0): 'Abc (roll number)' | Runs: ['Abc (roll number)', Times New Roman, 40.0pt, bold=None]
+    P4 (level=0): 'Abc (roll number)' | Runs: ['Abc (roll number)', Times New Roman, 40.0pt, bold=None]
+
+==================== SLIDE 2 (Layout: Title and Content) ====================
+Shape 0: Name='Title 25', Type=PLACEHOLDER (14)
+  Pos: Left=695960 (0.76in), Top=360000 (0.39in), Width=10800000 (11.81in), Height=720000 (0.79in)
+  TextFrame: word_wrap=None, margin_l=0, margin_t=0
+    P0 (level=0): 'Index' | Runs: ['Index', None, Nonept, bold=None]
+
+Shape 1: Name='Content Placeholder 27', Type=PLACEHOLDER (14)
+  Pos: Left=695960 (0.76in), Top=1301749 (1.42in), Width=10800000 (11.81in), Height=4873625 (5.33in)
+  TextFrame: word_wrap=None, margin_l=91440, margin_t=45720
+    P0 (level=0): '' | Runs: 
+
+Shape 2: Name='Google Shape;95;p2', Type=TEXT_BOX (17)
+  Pos: Left=695960 (0.76in), Top=1301749 (1.42in), Width=10800000 (11.81in), Height=4873625 (5.33in)
+  TextFrame: word_wrap=True, margin_l=91425, margin_t=45700
+    P0 (level=0): '' | Runs: 
+    P1 (level=0): 'Introduction ' | Runs: ['Introduction', Times New Roman, 28.0pt, bold=True], [' ', Times New Roman, Nonept, bold=True]
+    P2 (level=0): 'Problem Statement ' | Runs: ['Problem Statement ', Times New Roman, 28.0pt, bold=True]
+    P3 (level=0): 'Objectives and Scope' | Runs: ['Objectives and Scope', Times New Roman, 28.0pt, bold=True]
+    P4 (level=0): 'Applications' | Runs: ['Applications', Times New Roman, Nonept, bold=True]
+    P5 (level=0): 'Literature Review' | Runs: ['Literature Review', Times New Roman, Nonept, bold=True]
+    P6 (level=0): 'blockdiagram/Methodology/Algorithm' | Runs: ['blockdiagram/Methodology/Algorithm', Times New Roman, Nonept, bold=True]
+    P7 (level=0): 'Expected outcome' | Runs: ['Expected outcome', Times New Roman, Nonept, bold=True]
+    P8 (level=0): 'References' | Runs: ['References', Times New Roman, 28.0pt, bold=True]
+    P9 (level=0): '' | Runs: 
+
+==================== SLIDE 3 (Layout: Title and Content) ====================
+Shape 0: Name='Content Placeholder 34', Type=PLACEHOLDER (14)
+  Pos: Left=695960 (0.76in), Top=1301749 (1.42in), Width=10800000 (11.81in), Height=4873625 (5.33in)
+  TextFrame: word_wrap=None, margin_l=91440, margin_t=45720
+    P0 (level=0): '' | Runs: 
+
+Shape 1: Name='Google Shape;102;p3', Type=TEXT_BOX (17)
+  Pos: Left=838200 (0.92in), Top=1825625 (2.00in), Width=10515600 (11.50in), Height=4351338 (4.76in)
+  TextFrame: word_wrap=True, margin_l=91425, margin_t=45700
+    P0 (level=0): 'Text with some figure/diagram to explain' | Runs: ['Text with some figure/diagram to explain', Times New Roman, Nonept, bold=None]
+    P1 (level=0): 'About the introduction of your project' | Runs: ['About the introduction of your project', Times New Roman, Nonept, bold=None]
+
+Shape 2: Name='Google Shape;103;p3', Type=TEXT_BOX (17)
+  Pos: Left=6642340 (7.26in), Top=5001266 (5.47in), Width=5761987 (6.30in), Height=776827 (0.85in)
+  TextFrame: word_wrap=True, margin_l=91425, margin_t=45700
+    P0 (level=0): '' | Runs: 
+
+Shape 3: Name='Title 32', Type=PLACEHOLDER (14)
+  Pos: Left=695960 (0.76in), Top=360000 (0.39in), Width=10800000 (11.81in), Height=720000 (0.79in)
+  TextFrame: word_wrap=None, margin_l=0, margin_t=0
+    P0 (level=0): 'Introduction' | Runs: ['Introduction', None, Nonept, bold=None]
+
+==================== SLIDE 4 (Layout: Title and Content) ====================
+Shape 0: Name='Google Shape;120;p6', Type=PLACEHOLDER (14)
+  Pos: Left=695960 (0.76in), Top=360000 (0.39in), Width=10800000 (11.81in), Height=720000 (0.79in)
+  TextFrame: word_wrap=True, margin_l=0, margin_t=0
+    P0 (level=0): 'Problem statement' | Runs: ['Problem statement', None, Nonept, bold=None]
+
+Shape 1: Name='Content Placeholder 17', Type=PLACEHOLDER (14)
+  Pos: Left=695960 (0.76in), Top=1301749 (1.42in), Width=10800000 (11.81in), Height=4873625 (5.33in)
+  TextFrame: word_wrap=None, margin_l=91440, margin_t=45720
+    P0 (level=0): '' | Runs: 
+
+Shape 2: Name='Google Shape;122;p6', Type=TEXT_BOX (17)
+  Pos: Left=695960 (0.76in), Top=1301749 (1.42in), Width=10800000 (11.81in), Height=4873625 (5.33in)
+  TextFrame: word_wrap=True, margin_l=91425, margin_t=45700
+    P0 (level=0): 'Your project title here…' | Runs: ['Your project title here…', Times New Roman, 28.0pt, bold=None]
+
+==================== SLIDE 5 (Layout: Title and Content) ====================
+Shape 0: Name='Title 28', Type=PLACEHOLDER (14)
+  Pos: Left=695960 (0.76in), Top=360000 (0.39in), Width=10800000 (11.81in), Height=720000 (0.79in)
+  TextFrame: word_wrap=None, margin_l=0, margin_t=0
+    P0 (level=0): 'Objectives and Scope' | Runs: ['Objectives and Scope', None, Nonept, bold=None]
+
+Shape 1: Name='Content Placeholder 29', Type=PLACEHOLDER (14)
+  Pos: Left=695960 (0.76in), Top=1301749 (1.42in), Width=10800000 (11.81in), Height=4873625 (5.33in)
+  TextFrame: word_wrap=None, margin_l=91440, margin_t=45720
+    P0 (level=0): '' | Runs: 
+
+Shape 2: Name='Text Placeholder 2', Type=AUTO_SHAPE (1)
+  Pos: Left=695960 (0.76in), Top=1301749 (1.42in), Width=10800000 (11.81in), Height=4873625 (5.33in)
+  TextFrame: word_wrap=True, margin_l=91425, margin_t=45700
+    P0 (level=0): '1.  ' | Runs: ['1.  ', Times New Roman, 18.0pt, bold=True]
+    P1 (level=0): '2.' | Runs: ['2.', Times New Roman, 18.0pt, bold=True]
+    P2 (level=0): '3.' | Runs: ['3.', Times New Roman, 18.0pt, bold=True]
+    P3 (level=0): '4.' | Runs: ['4.', Times New Roman, 18.0pt, bold=True]
+    P4 (level=0): '' | Runs: 
+
+==================== SLIDE 6 (Layout: Title and Content) ====================
+Shape 0: Name='Title 28', Type=PLACEHOLDER (14)
+  Pos: Left=695960 (0.76in), Top=360000 (0.39in), Width=10800000 (11.81in), Height=720000 (0.79in)
+  TextFrame: word_wrap=None, margin_l=0, margin_t=0
+    P0 (level=0): 'Applications of Project management tools' | Runs: ['Applications of Project management tools', None, Nonept, bold=None]
+
+Shape 1: Name='Content Placeholder 29', Type=PLACEHOLDER (14)
+  Pos: Left=695960 (0.76in), Top=1301749 (1.42in), Width=10800000 (11.81in), Height=4873625 (5.33in)
+  TextFrame: word_wrap=None, margin_l=91440, margin_t=45720
+    P0 (level=0): '' | Runs: 
+
+Shape 2: Name='Text Placeholder 2', Type=AUTO_SHAPE (1)
+  Pos: Left=695960 (0.76in), Top=1301749 (1.42in), Width=10800000 (11.81in), Height=4873625 (5.33in)
+  TextFrame: word_wrap=True, margin_l=91425, margin_t=45700
+    P0 (level=0): '1.  ' | Runs: ['1.  ', Times New Roman, 18.0pt, bold=True]
+    P1 (level=0): '2.' | Runs: ['2.', Times New Roman, 18.0pt, bold=True]
+    P2 (level=0): '3.' | Runs: ['3.', Times New Roman, 18.0pt, bold=True]
+    P3 (level=0): '4.' | Runs: ['4.', Times New Roman, 18.0pt, bold=True]
+    P4 (level=0): '' | Runs: 
+
+==================== SLIDE 7 (Layout: Title and Content) ====================
+Shape 0: Name='Content Placeholder 34', Type=PLACEHOLDER (14)
+  Pos: Left=695960 (0.76in), Top=1301749 (1.42in), Width=10800000 (11.81in), Height=4873625 (5.33in)
+  TextFrame: word_wrap=None, margin_l=91440, margin_t=45720
+    P0 (level=0): '' | Runs: 
+
+Shape 1: Name='Google Shape;128;g16432b3a3c0_0_0', Type=TEXT_BOX (17)
+  Pos: Left=838200 (0.92in), Top=2624115 (2.87in), Width=10515600 (11.50in), Height=3390300 (3.71in)
+  TextFrame: word_wrap=True, margin_l=91425, margin_t=45700
+    P0 (level=0): 'Paper 1.  ' | Runs: ['Paper ', Times New Roman, 24.0pt, bold=True], ['1.  ', Times New Roman, 24.0pt, bold=True]
+    P1 (level=0): 'Paper 2.' | Runs: ['Paper 2', Times New Roman, 24.0pt, bold=True], ['.', Times New Roman, 24.0pt, bold=True]
+    P2 (level=0): 'Paper 3.' | Runs: ['Paper ', Times New Roman, 24.0pt, bold=True], ['3.', Times New Roman, 24.0pt, bold=True]
+    P3 (level=0): 'Paper 4.' | Runs: ['Paper 4', Times New Roman, 24.0pt, bold=True], ['.', Times New Roman, 24.0pt, bold=True]
+    P4 (level=1): '' | Runs: 
+
+Shape 2: Name='Google Shape;129;g16432b3a3c0_0_0', Type=TEXT_BOX (17)
+  Pos: Left=990600 (1.08in), Top=1449991 (1.59in), Width=10515600 (11.50in), Height=1033500 (1.13in)
+  TextFrame: word_wrap=True, margin_l=91425, margin_t=45700
+    P0 (level=0): '' | Runs: 
+
+Shape 3: Name='Title 32', Type=PLACEHOLDER (14)
+  Pos: Left=695960 (0.76in), Top=360000 (0.39in), Width=10800000 (11.81in), Height=720000 (0.79in)
+  TextFrame: word_wrap=None, margin_l=0, margin_t=0
+    P0 (level=0): 'Literature Review' | Runs: ['Literature Review', None, Nonept, bold=None]
+
+==================== SLIDE 8 (Layout: Title and Content) ====================
+Shape 0: Name='Title 33', Type=PLACEHOLDER (14)
+  Pos: Left=695960 (0.76in), Top=360000 (0.39in), Width=10800000 (11.81in), Height=720000 (0.79in)
+  TextFrame: word_wrap=None, margin_l=0, margin_t=0
+    P0 (level=0): 'Block Diagram' | Runs: ['Block Diagram', None, Nonept, bold=None]
+
+Shape 1: Name='Content Placeholder 34', Type=PLACEHOLDER (14)
+  Pos: Left=695960 (0.76in), Top=1301749 (1.42in), Width=10800000 (11.81in), Height=4873625 (5.33in)
+  TextFrame: word_wrap=None, margin_l=91440, margin_t=45720
+    P0 (level=0): '' | Runs: 
+
+Shape 2: Name='Google Shape;135;p8', Type=TEXT_BOX (17)
+  Pos: Left=695960 (0.76in), Top=1301749 (1.42in), Width=10800000 (11.81in), Height=4873625 (5.33in)
+  TextFrame: word_wrap=True, margin_l=91425, margin_t=45700
+    P0 (level=0): 'Block Diagram explanation can be done here…(if possible)' | Runs: ['Block Diagram explanation can be done here…(', Times New Roman, Nonept, bold=None], ['if possible', Times New Roman, Nonept, bold=True], [')', Times New Roman, Nonept, bold=None]
+    P1 (level=0): 'Along with text, some figure, plot, diagram can be used for explanation' | Runs: ['Along with text, some figure, plot, diagram can be used for explanation', Times New Roman, Nonept, bold=None]
+    P2 (level=0): '' | Runs: 
+    P3 (level=0): '' | Runs: 
+    P4 (level=0): '' | Runs: 
+
+==================== SLIDE 9 (Layout: Title and Content) ====================
+Shape 0: Name='Title 1', Type=PLACEHOLDER (14)
+  Pos: Left=695960 (0.76in), Top=360000 (0.39in), Width=10800000 (11.81in), Height=720000 (0.79in)
+  TextFrame: word_wrap=None, margin_l=91440, margin_t=45720
+    P0 (level=0): 'Methodology/Algorithms' | Runs: ['Methodology/Algorithms', None, Nonept, bold=None]
+
+Shape 1: Name='Content Placeholder 2', Type=PLACEHOLDER (14)
+  Pos: Left=695960 (0.76in), Top=1301749 (1.42in), Width=10800000 (11.81in), Height=4873625 (5.33in)
+  TextFrame: word_wrap=None, margin_l=91440, margin_t=45720
+    P0 (level=0): 'Method 1' | Runs: ['Method 1', None, Nonept, bold=True]
+    P1 (level=0): 'Method 2' | Runs: ['Method 2', None, Nonept, bold=True]
+    P2 (level=0): 'Method 3' | Runs: ['Method 3', None, Nonept, bold=True]
+    P3 (level=0): '' | Runs: 
+
+==================== SLIDE 10 (Layout: Title and Content) ====================
+Shape 0: Name='Title 1', Type=PLACEHOLDER (14)
+  Pos: Left=695960 (0.76in), Top=360000 (0.39in), Width=10800000 (11.81in), Height=720000 (0.79in)
+  TextFrame: word_wrap=None, margin_l=91440, margin_t=45720
+    P0 (level=0): 'Expected Outcome' | Runs: ['Expected Outcome', None, Nonept, bold=None]
+
+Shape 1: Name='Content Placeholder 2', Type=PLACEHOLDER (14)
+  Pos: Left=695960 (0.76in), Top=1301749 (1.42in), Width=10800000 (11.81in), Height=4873625 (5.33in)
+  TextFrame: word_wrap=None, margin_l=91440, margin_t=45720
+    P0 (level=0): 'Write about either outcome that achieved from your project, if 40-50 % project is completed or if 20-30 % of project is completed, then give expected outcome/result.' | Runs: ['Write about either outcome that achieved from your project, if 40-50 % project is completed or if 20-30 % of project is completed, then give expected outcome/result.', None, Nonept, bold=None]
+
+==================== SLIDE 11 (Layout: Title and Content) ====================
+Shape 0: Name='Title 26', Type=PLACEHOLDER (14)
+  Pos: Left=695960 (0.76in), Top=360000 (0.39in), Width=10800000 (11.81in), Height=720000 (0.79in)
+  TextFrame: word_wrap=None, margin_l=0, margin_t=0
+    P0 (level=0): 'Selected References' | Runs: ['Selected References', None, Nonept, bold=None]
+
+Shape 1: Name='Content Placeholder 27', Type=PLACEHOLDER (14)
+  Pos: Left=695960 (0.76in), Top=1301749 (1.42in), Width=10800000 (11.81in), Height=4873625 (5.33in)
+  TextFrame: word_wrap=None, margin_l=91440, margin_t=45720
+    P0 (level=0): '' | Runs: 
+
+Shape 2: Name='Google Shape;141;p11', Type=TEXT_BOX (17)
+  Pos: Left=695960 (0.76in), Top=1301749 (1.42in), Width=10800000 (11.81in), Height=4873625 (5.33in)
+  TextFrame: word_wrap=True, margin_l=91425, margin_t=45700
+    P0 (level=0): 'At least 4-5 good references. More is always good. (Can have papers, books, websites, blogs, manuals etc…)' | Runs: ['At least 4-5 good references. More is always good. (Can have papers, books, websites, blogs, manuals etc…)', Times New Roman, Nonept, bold=None]
+    P1 (level=0): 'For example:' | Runs: ['For example:', Times New Roman, Nonept, bold=None]
+    P2 (level=0): '[1] Jyothi Peta and Srinivas Koppu, "An IoT-Based Framework and Ensemble Optimized Deep Maxout Network Model for Breast Cancer Classification". Electronics 2022, 11, 4137. https://doi.org/10.3390/electronics11244137 ' | Runs: ['[1] Jyothi Peta and Srinivas ', Times New Roman, 18.0pt, bold=None], ['Koppu', Times New Roman, 18.0pt, bold=None], [', "An IoT-Based Framework and Ensemble Optimized Deep ', Times New Roman, 18.0pt, bold=None], ['Maxout', Times New Roman, 18.0pt, bold=None], [' Network Model for Breast Cancer Classification". Electronics 2022, 11, 4137. https://doi.org/10.3390/electronics11244137 ', Times New Roman, 18.0pt, bold=None]
+    P3 (level=0): '[2] MARIO MOLINARA, MARCO FERDINANDI,GIANNI CERRO, LUIGI FERRIGNO and ETTORE MASSERA, "An end to end indoor air monitoring system based on machine learning andSENSIPLUS platform".  in IEEE Access, vol. 8, pp. 72204-72215, 2020, doi: 10.1109/ACCESS.2020.2987756. ' | Runs: ['[2] MARIO MOLINARA, MARCO FERDINANDI,GIANNI CERRO, LUIGI FERRIGNO and ETTORE MASSERA, "An end to end indoor air monitoring system based on machine learning ', Times New Roman, 18.0pt, bold=None], ['andSENSIPLUS', Times New Roman, 18.0pt, bold=None], [' platform".  in IEEE Access, vol. 8, pp. 72204-72215, 2020, ', Times New Roman, 18.0pt, bold=None], ['doi', Times New Roman, 18.0pt, bold=None], [': 10.1109/ACCESS.2020.2987756. ', Times New Roman, 18.0pt, bold=None]
+
+==================== SLIDE 12 (Layout: End Slide) ====================
+Shape 0: Name='标题', Type=PLACEHOLDER (14)
+  Pos: Left=1028700 (1.12in), Top=598536 (0.65in), Width=9239250 (10.10in), Height=2799325 (3.06in)
+  TextFrame: word_wrap=None, margin_l=91440, margin_t=45720
+    P0 (level=0): '' | Runs: 
+    P1 (level=0): 'Thank You!!' | Runs: ['Thank You!!', Times New Roman, 60.0pt, bold=None]
+    P2 (level=0): 'Any questions.' | Runs: ['Any questions.', Times New Roman, 60.0pt, bold=None]
+
+Shape 1: Name='署名', Type=PLACEHOLDER (14)
+  Pos: Left=1028700 (1.12in), Top=4096935 (4.48in), Width=7143750 (7.81in), Height=1225776 (1.34in)
+  TextFrame: word_wrap=True, margin_l=91440, margin_t=45720
+    P0 (level=0): '' | Runs: 
+
+Shape 2: Name='Title 36', Type=AUTO_SHAPE (1)
+  Pos: Left=838200 (0.92in), Top=1825625 (2.00in), Width=10515600 (11.50in), Height=4351338 (4.76in)
+  TextFrame: word_wrap=True, margin_l=91425, margin_t=45700
+    P0 (level=0): 'Thank You!!' | Runs: ['Thank You!!', None, Nonept, bold=None]
+

@@ -1,0 +1,109 @@
+
+==================== SLIDE 1 ====================
+--- [Text Shape 0 - Google Shape;87;p1] ---
+  Department of Computer Engineering
+--- [Text Shape 1 - Google Shape;88;p1] ---
+  Guide:
+  Mr/Mrs/Dr. ……..
+--- [Text Shape 2 - 标题] ---
+  AY 2026-27(Semester-III)
+--- [Text Shape 3 - 副标题] ---
+  SY-Project Design Presentation (Review II)
+--- [Text Shape 4 - Title 54] ---
+  Title of the Project Design
+--- [Text Shape 5 - Text Box 61] ---
+  Students Name:
+  Abc (roll number)
+  Abc (roll number)
+  Abc (roll number)
+  Abc (roll number)
+
+==================== SLIDE 2 ====================
+--- [Text Shape 0 - Title 25] ---
+  Index
+--- [Text Shape 2 - Google Shape;95;p2] ---
+  Introduction
+  Problem Statement
+  Objectives and Scope
+  Applications
+  Literature Review
+  blockdiagram/Methodology/Algorithm
+  Expected outcome
+  References
+
+==================== SLIDE 3 ====================
+--- [Text Shape 1 - Google Shape;102;p3] ---
+  Text with some figure/diagram to explain
+  About the introduction of your project
+--- [Text Shape 3 - Title 32] ---
+  Introduction
+
+==================== SLIDE 4 ====================
+--- [Text Shape 0 - Google Shape;120;p6] ---
+  Problem statement
+--- [Text Shape 2 - Google Shape;122;p6] ---
+  Your project title here…
+
+==================== SLIDE 5 ====================
+--- [Text Shape 0 - Title 28] ---
+  Objectives and Scope
+--- [Text Shape 2 - Text Placeholder 2] ---
+  1.
+  2.
+  3.
+  4.
+
+==================== SLIDE 6 ====================
+--- [Text Shape 0 - Title 28] ---
+  Applications of Project management tools
+--- [Text Shape 2 - Text Placeholder 2] ---
+  1.
+  2.
+  3.
+  4.
+
+==================== SLIDE 7 ====================
+--- [Text Shape 1 - Google Shape;128;g16432b3a3c0_0_0] ---
+  Paper 1.
+  Paper 2.
+  Paper 3.
+  Paper 4.
+--- [Text Shape 3 - Title 32] ---
+  Literature Review
+
+==================== SLIDE 8 ====================
+--- [Text Shape 0 - Title 33] ---
+  Block Diagram
+--- [Text Shape 2 - Google Shape;135;p8] ---
+  Block Diagram explanation can be done here…(if possible)
+  Along with text, some figure, plot, diagram can be used for explanation
+
+==================== SLIDE 9 ====================
+--- [Text Shape 0 - Title 1] ---
+  Methodology/Algorithms
+--- [Text Shape 1 - Content Placeholder 2] ---
+  Method 1
+  Method 2
+  Method 3
+
+==================== SLIDE 10 ====================
+--- [Text Shape 0 - Title 1] ---
+  Expected Outcome
+--- [Text Shape 1 - Content Placeholder 2] ---
+  Write about either outcome that achieved from your project, if 40-50 % project is completed or if 20-30 % of project is completed, then give expected outcome/result.
+
+==================== SLIDE 11 ====================
+--- [Text Shape 0 - Title 26] ---
+  Selected References
+--- [Text Shape 2 - Google Shape;141;p11] ---
+  At least 4-5 good references. More is always good. (Can have papers, books, websites, blogs, manuals etc…)
+  For example:
+  [1] Jyothi Peta and Srinivas Koppu, "An IoT-Based Framework and Ensemble Optimized Deep Maxout Network Model for Breast Cancer Classification". Electronics 2022, 11, 4137. https://doi.org/10.3390/electronics11244137
+  [2] MARIO MOLINARA, MARCO FERDINANDI,GIANNI CERRO, LUIGI FERRIGNO and ETTORE MASSERA, "An end to end indoor air monitoring system based on machine learning andSENSIPLUS platform".  in IEEE Access, vol. 8, pp. 72204-72215, 2020, doi: 10.1109/ACCESS.2020.2987756.
+
+==================== SLIDE 12 ====================
+--- [Text Shape 0 - 标题] ---
+  Thank You!!
+  Any questions.
+--- [Text Shape 2 - Title 36] ---
+  Thank You!!
